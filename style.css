@@ -87,14 +87,13 @@
   }
   .span-p {
     display: inline-block;
-    margin-right: 3.6rem;
+    margin-left: 3.6rem;
   }
   .grammarly-details{
     width: 80rem;
     margin: 0 4.8rem 0 4.8rem;
     font-size: 1.2rem;
   }
-  
   .span-h1{
     color: #0ca678;
   }
